@@ -4,7 +4,7 @@ Data Science & ML Enthusiast | Python • NLP • Power BI
 
 🎓 Computer Science Student @ Majmaah University | GPA 4.98/5.00
 📍 Riyadh, Saudi Arabia
-🔗 [LinkedIn](www.linkedin.com/in/ziyad-al-abduljabbar)
+🔗 [LinkedIn](https://www.linkedin.com/in/ziyad-al-abduljabbar)
 
 ## 📊 GitHub Stats
 
