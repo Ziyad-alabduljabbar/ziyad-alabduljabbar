@@ -12,4 +12,4 @@ Data Science & ML Enthusiast | Python • NLP • Power BI
 
 ## 📊 GitHub Stats
 
-![Ziyad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ziyad-alabduljabbar&show_icons=true&theme=tokyonight)
+![Ziyad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ziyad-alabduljabbar&show_icons=true&theme=tokyonight&include_all_commits=true)
